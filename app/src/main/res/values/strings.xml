@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Cribbage Counter</string>
+
+    <!-- Header text for player 1 -->
+    <string name="player_1">Player 1</string>
+
+    <!-- Header text for player 2 -->
+    <string name="player_2">Player 2</string>
+
+    <!-- Go button text. -->
+    <string name="go">Go</string>
+
+    <!-- Last card button text. -->
+    <string name="last_card">Last Card</string>
+
+    <!-- Header and button text for 15's scoring method -->
+    <string name="fifteens">15\'s</string>
+
+    <!-- Header text for pegging scoring method -->
+    <string name="pegging">Pegging</string>
+
+    <!-- Header text for the pairs scoring method. -->
+    <string name="pairs">Pairs</string>
+
+    <!-- Header text for the runs scoring method. -->
+    <string name="runs">Runs</string>
+
+    <!-- Header text for the flush scoring method. -->
+    <string name="flush">Flush</string>
+
+    <!-- Knobs button text -->
+    <string name="knobs">Knobs</string>
+
+    <!-- Header text for the pairs scoring method. -->
+    <string name="reset_scores">Reset Scores</string>
+
+</resources>
